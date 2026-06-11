@@ -26,32 +26,28 @@ In the highly competitive telecom industry, **customer retention** is more impor
 
 ## How to Run the Project
 
-Clone the repository:git clone https://github.com/YOUR-USERNAME/Customer-Churn-Prediction.git \n
+Clone the repository:git clone https://github.com/YOUR-USERNAME/Customer-Churn-Prediction.git 
 
-Install dependencies: pip install -r requirements.txt \n
+Install dependencies: pip install -r requirements.txt 
 
-Open the notebook: jupyter notebook \n
+Open the notebook: jupyter notebook 
 
-Run it \n
+Run it 
 
 ## Business Recommendations
-Based on the model:
-
-Offer long-term contracts with discounts \n
-
-Provide better tech support to high-risk  \n
-
-Review pricing strategy for high monthly charges \n
-
-Target new customers with onboarding offers \n
+Based on the model:.
+Offer long-term contracts with discounts.
+Provide better tech support to high-risk.
+Review pricing strategy for high monthly charges. 
+Target new customers with onboarding offers.
 
 
 ## Future Improvements
 
-Hyperparameter tuning using GridSearchCV
-Feature Engineering (e.g., creating "Total Services" feature)
-Customer Segmentation
-Build a Streamlit Web App for real-time predictions
-Deploy model using Flask/FastAPI
+Hyperparameter tuning using GridSearchCV.
+Feature Engineering (e.g., creating "Total Services" feature).
+Customer Segmentation.
+Build a Streamlit Web App for real-time predictions.
+Deploy model using Flask/FastAPI.
 
 Made with ❤️ for learning and showcasing Machine Learning skills
