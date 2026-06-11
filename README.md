@@ -24,19 +24,6 @@ In the highly competitive telecom industry, **customer retention** is more impor
 - **Scikit-Learn** – Machine Learning
 - **Pickle** – Model Saving
 
-## Project Structure
-
-Customer-Churn-Prediction/
-├── data/
-│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-├── notebook.ipynb
-├── model.pkl
-├── README.md
-├── requirements.txt
-└── images/
-    ├── eda_plots.png
-    └── feature_importance.png
-
 ## How to Run the Project
 
 Clone the repository:git clone https://github.com/YOUR-USERNAME/Customer-Churn-Prediction.git
