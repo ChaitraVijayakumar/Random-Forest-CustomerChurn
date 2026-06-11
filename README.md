@@ -26,18 +26,24 @@ In the highly competitive telecom industry, **customer retention** is more impor
 
 ## How to Run the Project
 
-Clone the repository:git clone https://github.com/YOUR-USERNAME/Customer-Churn-Prediction.git
-Install dependencies: pip install -r requirements.txt
-Open the notebook: jupyter notebook
-Run it
+Clone the repository:git clone https://github.com/YOUR-USERNAME/Customer-Churn-Prediction.git \n
+
+Install dependencies: pip install -r requirements.txt \n
+
+Open the notebook: jupyter notebook \n
+
+Run it \n
 
 ## Business Recommendations
 Based on the model:
 
-Offer long-term contracts with discounts
-Provide better tech support to high-risk customers
-Review pricing strategy for high monthly charges
-Target new customers with onboarding offers
+Offer long-term contracts with discounts \n
+
+Provide better tech support to high-risk  \n
+
+Review pricing strategy for high monthly charges \n
+
+Target new customers with onboarding offers \n
 
 
 ## Future Improvements
