@@ -35,19 +35,27 @@ Open the notebook: jupyter notebook
 Run it 
 
 ## Business Recommendations
-Based on the model:.
+Based on the model:
+
 Offer long-term contracts with discounts.
+
 Provide better tech support to high-risk.
+
 Review pricing strategy for high monthly charges. 
+
 Target new customers with onboarding offers.
 
 
 ## Future Improvements
 
 Hyperparameter tuning using GridSearchCV.
+
 Feature Engineering (e.g., creating "Total Services" feature).
+
 Customer Segmentation.
+
 Build a Streamlit Web App for real-time predictions.
+
 Deploy model using Flask/FastAPI.
 
 Made with ❤️ for learning and showcasing Machine Learning skills
